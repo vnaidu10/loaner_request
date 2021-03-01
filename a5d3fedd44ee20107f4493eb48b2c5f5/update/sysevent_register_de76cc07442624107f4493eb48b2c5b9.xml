@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Used to trigger an email to remind a user to return their loaner item</description>
+        <event_name>x_cdltd_loaner_req.reminder</event_name>
+        <fired_by>Scheduled Script Execution: Loaner Item Return reminder</fired_by>
+        <queue/>
+        <suffix>reminder</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 18:07:48</sys_created_on>
+        <sys_id>de76cc07442624107f4493eb48b2c5b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.reminder</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a5d3fedd44ee20107f4493eb48b2c5f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a5d3fedd44ee20107f4493eb48b2c5f5</sys_scope>
+        <sys_update_name>sysevent_register_de76cc07442624107f4493eb48b2c5b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 18:07:48</sys_updated_on>
+        <table>x_cdltd_loaner_req_loaner_request</table>
+    </sysevent_register>
+</record_update>
